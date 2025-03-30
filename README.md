@@ -1,4 +1,4 @@
-# textcompression
+
 # Text Compression using Graph-Based Clique Finding
 
 ## Overview
